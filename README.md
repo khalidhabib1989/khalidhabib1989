@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
 [![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
-[![Location](https://img.shields.io/badge/📍-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
 
@@ -20,18 +20,18 @@
 ```java
 public class KhalidHabib extends SeniorEngineer {
 
-    String[] currentRole   = {"Tech Lead", "TCS Mumbai", "Amazon Q (AWS)"};
-    String[] expertise     = {"Core Java", "Spring Boot 3", "Microservices", "Oracle PL/SQL"};
-    String[] cloud         = {"AWS — S3, EC2, SNS", "Azure AZ-900 Certified"};
-    String[] domains       = {"Credit Risk", "Capital Markets", "Investment Banking", "AI/ML"};
-    int      yearsOfExp    = 10;
+    String[] currentRole    = {"Tech Lead", "TCS Mumbai", "Amazon Q (AWS)"};
+    String[] expertise      = {"Core Java", "Spring Boot 3", "Microservices", "Oracle PL/SQL"};
+    String[] cloud          = {"AWS — S3, EC2, SNS", "Azure AZ-900 Certified"};
+    String[] domains        = {"Credit Risk", "Capital Markets", "Investment Banking", "AI/ML"};
+    int      yearsOfExp     = 10;
     int      projectsShipped = 10;
-    String   awards        = "4× GURU Award Winner 🏆";
-    boolean  openToWork    = true;
+    String   awards         = "4x GURU Award Winner";
+    boolean  openToWork     = true;
 
     @Override
     public String getMotivation() {
-        return "I build the systems banks & tech companies can't afford to get wrong.";
+        return "I build the systems banks and tech companies can't afford to get wrong.";
     }
 }
 ```
@@ -44,9 +44,9 @@ public class KhalidHabib extends SeniorEngineer {
 
 | Period | Role | Company | Domain |
 |--------|------|---------|--------|
-| 🟢 Mar 2023 – Present | **Senior Engineer & Tech Lead** | **TCS → Amazon** | AI / ML |
+| 🟢 Mar 2023 – Present | **Senior Engineer + Tech Lead** | **TCS → Amazon** | AI / ML |
 | 🔵 Jun 2015 – Feb 2023 | **Senior Java Developer** | **Accenture → UBS** | Banking |
-| ⚪ Oct 2012 – May 2013 | Java & J2EE Training | Lara Technology | Foundation |
+| ⚪ Oct 2012 – May 2013 | Java + J2EE Training | Lara Technology | Foundation |
 
 </div>
 
@@ -59,14 +59,14 @@ public class KhalidHabib extends SeniorEngineer {
 | # | Project | Company | Tech | Impact |
 |---|---------|---------|------|--------|
 | 🤖 10 | **Amazon Q — AI Code Generator** | Amazon / TCS | Java, RLHF, ML | AI-powered code suggestions for millions of devs |
-| 🔄 9 | **SWWR Migration** | UBS / Accenture | Java, PL/SQL | Python→Java, zero-downtime production cutover |
+| 🔄 9 | **SWWR Migration** | UBS / Accenture | Java, PL/SQL | Python to Java, zero-downtime production cutover |
 | 📊 8 | **Ikarus — GMV Reporting** | UBS / Accenture | Java, Oracle | Prime brokerage market value reporting |
-| 📡 7 | **Murex Rate Options** | UBS / Accenture | Java, FPML, XML | OTC trade feed migration & OBS decommission |
+| 📡 7 | **Murex Rate Options** | UBS / Accenture | Java, FPML, XML | OTC trade feed migration + OBS decommission |
 | 🏗️ 6 | **WM Report Extracts** | UBS / Accenture | Java, ETL | Regulatory data export pipeline |
 | 🔧 5 | **Risk Component Refactor** | UBS / Accenture | Java, PL/SQL | 3 releases, 0 data disruption |
 | 💹 4 | **LIBOR Integration** | UBS / Accenture | Java, Oracle | Interest rate calculations for wholesale lending |
-| 📉 3 | **RRP RAD — Stress Testing** | UBS / Accenture | Java, PL/SQL | Portfolio risk & hedging platform |
-| 💱 2 | **CEDAR — CHF→USD Migration** | UBS / Accenture | Java, Oracle | Bank-wide currency migration |
+| 📉 3 | **RRP RAD — Stress Testing** | UBS / Accenture | Java, PL/SQL | Portfolio risk + hedging platform |
+| 💱 2 | **CEDAR — CHF to USD Migration** | UBS / Accenture | Java, Oracle | Bank-wide currency migration |
 | 🏛️ 1 | **CDH — Core Data Hub** | UBS / Accenture | Java, ETL | Foundational risk data aggregation layer |
 
 </div>
@@ -77,18 +77,18 @@ public class KhalidHabib extends SeniorEngineer {
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages + Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Framework%206-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & DevOps
+### Cloud + DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Database & Tools
+### Database + Tools
 ![Oracle](https://img.shields.io/badge/Oracle%2019c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,13 +107,13 @@ public class KhalidHabib extends SeniorEngineer {
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Awards + Achievements
 
 <div align="center">
 
-| 🏅 Award | Description |
-|---------|-------------|
-| 🥇 **4× GURU Award** | Accenture's highest team recognition — earned 4 consecutive times for technical mentoring & leadership at UBS |
+| Award | Description |
+|-------|-------------|
+| 🥇 **4x GURU Award** | Accenture's highest team recognition — earned 4 consecutive times for technical mentoring + leadership at UBS |
 | ☁️ **Azure AZ-900 Certified** | Microsoft Azure Fundamentals Certification |
 | 🤖 **Amazon Q Contributor** | Core team member on AWS's flagship AI developer tool |
 
@@ -125,12 +125,12 @@ public class KhalidHabib extends SeniorEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khalidhabib1989&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=gotokhalidhabib&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotokhalidhabib&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khalidhabib1989&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
+![GitHub Streak](https://streak-stats.demolab.com?user=gotokhalidhabib&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
 
 </div>
 
