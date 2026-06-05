@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
-[![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
