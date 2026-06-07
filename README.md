@@ -21,7 +21,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
-[![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
@@ -35,7 +34,7 @@ public class KhalidHabib extends SeniorEngineer {
 
     String[] currentRole    = {"Tech Lead", "TCS Mumbai", "Amazon Q (AWS)"};
     String[] expertise      = {"Core Java", "Spring Boot 3", "Microservices", "Oracle PL/SQL"};
-    String[] cloud          = {"AWS — S3, EC2, SNS", "Azure AZ-900 Certified"};
+    String[] cloud          = {"AWS — S3, EC2, SNS"};
     String[] domains        = {"Credit Risk", "Capital Markets", "Investment Banking", "AI/ML"};
     int      yearsOfExp     = 10;
     int      projectsShipped = 10;
@@ -98,7 +97,6 @@ public class KhalidHabib extends SeniorEngineer {
 
 ### Cloud + DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Database + Tools
@@ -127,7 +125,6 @@ public class KhalidHabib extends SeniorEngineer {
 | Award | Description |
 |-------|-------------|
 | 🥇 **4x GURU Award** | Accenture's highest team recognition — earned 4 consecutive times for technical mentoring + leadership at UBS |
-| ☁️ **Azure AZ-900 Certified** | Microsoft Azure Fundamentals Certification |
 | 🤖 **Amazon Q Contributor** | Core team member on AWS's flagship AI developer tool |
 
 </div>
