@@ -31,7 +31,7 @@
 ## 🧑‍💻 About Me
 
 ```java
-public class KhalidHabib extends SeniorEngineer {
+public class KhalidHabib extends SeniorJavaEngineer {
 
     String[] currentRole    = {"Tech Lead", "TCS Mumbai", "Amazon Q (AWS)"};
     String[] expertise      = {"Core Java", "Spring Boot 3", "Microservices", "Oracle PL/SQL"};
