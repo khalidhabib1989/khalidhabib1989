@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving+color=0:0D2B55,100:1565C0+height=200&section=header+text=Khalid%20Habib+fontSize=55+fontColor=ffffff&fontAlignY=38+desc=Senior%20Java%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20AWS%20%7C%20Azure+descAlignY=58+descSize=18+descColor=B5D4F4" />
+<svg viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg" width="860" height="180">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D2B55"/>
+      <stop offset="100%" style="stop-color:#1565C0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="180" fill="url(#hg)" rx="10"/>
+  <polygon points="0,130 180,80 360,120 540,70 720,110 860,60 860,180 0,180" fill="#0a2347" opacity="0.5"/>
+  <polygon points="0,150 200,110 400,145 600,100 800,135 860,115 860,180 0,180" fill="#081d38" opacity="0.4"/>
+  <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib</text>
+  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS  |  Azure</text>
+  <text x="430" y="148" font-family="Arial,sans-serif" font-size="14" fill="#7EB3E8" text-anchor="middle">10+ Years  |  UBS Investment Bank  |  Amazon  |  TCS  |  Accenture</text>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=700&lines=10%2B+Years+Java+Engineering+%F0%9F%9A%80;Built+Credit+Risk+Platforms+for+UBS+%F0%9F%8F%A6;Shipped+AI+Code+Generation+at+Amazon+%F0%9F%A4%96;Spring+Boot+3+%7C+Microservices+%7C+AWS+%7C+Azure;4%C3%97+GURU+Award+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -8,6 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
+[![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
@@ -113,6 +127,7 @@ public class KhalidHabib extends SeniorEngineer {
 | Award | Description |
 |-------|-------------|
 | 🥇 **4x GURU Award** | Accenture's highest team recognition — earned 4 consecutive times for technical mentoring + leadership at UBS |
+| ☁️ **Azure AZ-900 Certified** | Microsoft Azure Fundamentals Certification |
 | 🤖 **Amazon Q Contributor** | Core team member on AWS's flagship AI developer tool |
 
 </div>
@@ -123,12 +138,12 @@ public class KhalidHabib extends SeniorEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khalidhabib1989&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhabib1989&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=gotokhalidhabib&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotokhalidhabib&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khalidhabib1989&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
+![GitHub Streak](https://streak-stats.demolab.com?user=gotokhalidhabib&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
 
 </div>
 
@@ -150,6 +165,15 @@ public class KhalidHabib extends SeniorEngineer {
 
 > *"I build the systems banks and tech companies can't afford to get wrong."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0D2B55&height=100&section=footer" />
+<svg viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg" width="860" height="100">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1565C0"/>
+      <stop offset="100%" style="stop-color:#0D2B55"/>
+    </linearGradient>
+  </defs>
+  <polygon points="0,60 120,30 280,55 440,20 600,50 740,25 860,45 860,100 0,100" fill="url(#fg)"/>
+  <polygon points="0,80 150,55 320,75 500,45 680,70 860,50 860,100 0,100" fill="#0a2347" opacity="0.7"/>
+</svg>
 
 </div>
