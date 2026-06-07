@@ -163,7 +163,7 @@ public class KhalidHabib extends SeniorEngineer {
 
 <br/><br/>
 
-<h2>"I build the systems banks and tech companies can't afford to get wrong."</h2>
+<h3>"I build the systems banks and tech companies can't afford to get wrong."</h3>
 
 <svg viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg" width="860" height="100">
   <defs>
