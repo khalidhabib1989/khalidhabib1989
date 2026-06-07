@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2B55,100:1565C0&height=200&section=header&text=Khalid%20Habib&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Senior%20Java%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20AWS%20%7C%20Azure&descAlignY=58&descSize=18&descColor=B5D4F4" />
+<img src="https://capsule-render.vercel.app/api?type=waving+color=0:0D2B55,100:1565C0+height=200&section=header+text=Khalid%20Habib+fontSize=55+fontColor=ffffff&fontAlignY=38+desc=Senior%20Java%20Engineer%20%7C%20Banking%20%26%20FinTech%20%7C%20AWS%20%7C%20Azure+descAlignY=58+descSize=18+descColor=B5D4F4" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=700&lines=10%2B+Years+Java+Engineering+%F0%9F%9A%80;Built+Credit+Risk+Platforms+for+UBS+%F0%9F%8F%A6;Shipped+AI+Code+Generation+at+Amazon+%F0%9F%A4%96;Spring+Boot+3+%7C+Microservices+%7C+AWS+%7C+Azure;4%C3%97+GURU+Award+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
