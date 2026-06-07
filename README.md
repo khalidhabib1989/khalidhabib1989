@@ -133,13 +133,18 @@ public class KhalidHabib extends SeniorEngineer {
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khalidhabib1989&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="180" width="810" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khalidhabib1989&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="180" width="810" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=khalidhabib1989&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0" height="180" width="810" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khalidhabib1989&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khalidhabib1989&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khalidhabib1989&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
+
 </div>
 
 ---
