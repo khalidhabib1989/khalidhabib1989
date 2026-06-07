@@ -11,7 +11,7 @@
   <polygon points="0,130 180,80 360,120 540,70 720,110 860,60 860,180 0,180" fill="#0a2347" opacity="0.5"/>
   <polygon points="0,150 200,110 400,145 600,100 800,135 860,115 860,180 0,180" fill="#081d38" opacity="0.4"/>
   <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib</text>
-  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS  |  Azure</text>
+  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS |AI ML </text>
   <text x="430" y="148" font-family="Arial,sans-serif" font-size="14" fill="#7EB3E8" text-anchor="middle">10+ Years  |  UBS Investment Bank  |  Amazon  |  TCS  |  Accenture</text>
 </svg>
 
