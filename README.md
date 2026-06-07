@@ -11,16 +11,27 @@
   <polygon points="0,130 180,80 360,120 540,70 720,110 860,60 860,180 0,180" fill="#0a2347" opacity="0.5"/>
   <polygon points="0,150 200,110 400,145 600,100 800,135 860,115 860,180 0,180" fill="#081d38" opacity="0.4"/>
   <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib</text>
-  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS |AI ML | </text>
+  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS  |  Azure</text>
   <text x="430" y="148" font-family="Arial,sans-serif" font-size="14" fill="#7EB3E8" text-anchor="middle">10+ Years  |  UBS Investment Bank  |  Amazon  |  TCS  |  Accenture</text>
 </svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=700&lines=10%2B+Years+Java+Engineering+%F0%9F%9A%80;Built+Credit+Risk+Platforms+for+UBS+%F0%9F%8F%A6;Shipped+AI+Code+Generation+at+Amazon+%F0%9F%A4%96;Spring+Boot+3+%7C+Microservices+%7C+AWS+%7C+;4%C3%97+GURU+Award+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+<svg viewBox="0 0 700 45" xmlns="http://www.w3.org/2000/svg" width="700" height="45">
+  <rect width="700" height="45" fill="#0d1117" rx="8"/>
+  <text x="350" y="16" font-family="Courier New,monospace" font-size="14" fill="#1565C0" text-anchor="middle" font-weight="bold">
+    🚀 10+ Yrs Java Engineering  |  UBS Investment Bank  |  Amazon AWS
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="36" font-family="Courier New,monospace" font-size="13" fill="#42A5F5" text-anchor="middle">
+    Spring Boot 3  ·  Microservices  ·  Credit Risk  ·  AI/ML  ·  4× GURU Award 🏆
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
+[![Azure](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
@@ -34,7 +45,7 @@ public class KhalidHabib extends SeniorEngineer {
 
     String[] currentRole    = {"Tech Lead", "TCS Mumbai", "Amazon Q (AWS)"};
     String[] expertise      = {"Core Java", "Spring Boot 3", "Microservices", "Oracle PL/SQL"};
-    String[] cloud          = {"AWS — S3, EC2, SNS"};
+    String[] cloud          = {"AWS — S3, EC2, SNS", "Azure AZ-900 Certified"};
     String[] domains        = {"Credit Risk", "Capital Markets", "Investment Banking", "AI/ML"};
     int      yearsOfExp     = 10;
     int      projectsShipped = 10;
@@ -97,6 +108,7 @@ public class KhalidHabib extends SeniorEngineer {
 
 ### Cloud + DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Database + Tools
@@ -125,22 +137,89 @@ public class KhalidHabib extends SeniorEngineer {
 | Award | Description |
 |-------|-------------|
 | 🥇 **4x GURU Award** | Accenture's highest team recognition — earned 4 consecutive times for technical mentoring + leadership at UBS |
+| ☁️ **Azure AZ-900 Certified** | Microsoft Azure Fundamentals Certification |
 | 🤖 **Amazon Q Contributor** | Core team member on AWS's flagship AI developer tool |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Career Stats at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gotokhalidhabib&show_icons=true&theme=tokyonight&hide_border=true&title_color=1565C0&icon_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotokhalidhabib&layout=compact&theme=tokyonight&hide_border=true&title_color=1565C0&bg_color=0d1117&text_color=ffffff" height="165" />
+<svg viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg" width="860" height="200">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0D2B55"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1565C0"/>
+      <stop offset="100%" style="stop-color:#42A5F5"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6F00"/>
+      <stop offset="100%" style="stop-color:#FFA726"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1B5E20"/>
+      <stop offset="100%" style="stop-color:#66BB6A"/>
+    </linearGradient>
+  </defs>
 
-<br/>
+  <!-- Background -->
+  <rect width="860" height="200" fill="url(#bg1)" rx="12"/>
+  <rect width="858" height="198" x="1" y="1" fill="none" stroke="#1565C0" stroke-width="1" rx="12" opacity="0.4"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gotokhalidhabib&theme=tokyonight&hide_border=true&ring=1565C0&fire=FF6F00&currStreakLabel=1565C0)
+  <!-- Title -->
+  <text x="430" y="32" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#1565C0" text-anchor="middle">⚡ Professional Stats</text>
+
+  <!-- Stat 1: Years Experience -->
+  <text x="60" y="68" font-family="Arial,sans-serif" font-size="12" fill="#7EB3E8">Years of Experience</text>
+  <rect x="60" y="76" width="320" height="16" rx="8" fill="#1a2744"/>
+  <rect x="60" y="76" width="304" height="16" rx="8" fill="url(#bar1)"/>
+  <text x="392" y="89" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#42A5F5" text-anchor="end">10+ yrs</text>
+
+  <!-- Stat 2: Projects Shipped -->
+  <text x="60" y="114" font-family="Arial,sans-serif" font-size="12" fill="#7EB3E8">Production Projects Shipped</text>
+  <rect x="60" y="122" width="320" height="16" rx="8" fill="#1a2744"/>
+  <rect x="60" y="122" width="288" height="16" rx="8" fill="url(#bar2)"/>
+  <text x="392" y="135" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#FFA726" text-anchor="end">10 projects</text>
+
+  <!-- Stat 3: GURU Awards -->
+  <text x="60" y="160" font-family="Arial,sans-serif" font-size="12" fill="#7EB3E8">GURU Awards Won</text>
+  <rect x="60" y="168" width="320" height="16" rx="8" fill="#1a2744"/>
+  <rect x="60" y="168" width="144" height="16" rx="8" fill="url(#bar3)"/>
+  <text x="392" y="181" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#66BB6A" text-anchor="end">4x 🏆</text>
+
+  <!-- Divider -->
+  <line x1="430" y1="50" x2="430" y2="190" stroke="#1565C0" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Right side: Tech breakdown -->
+  <text x="600" y="68" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#B5D4F4" text-anchor="middle">🛠️ Top Languages</text>
+
+  <!-- Java -->
+  <circle cx="460" cy="100" r="4" fill="#ED8B00"/>
+  <text x="472" y="104" font-family="Arial,sans-serif" font-size="12" fill="#cccccc">Java / Spring Boot</text>
+  <text x="740" y="104" font-family="Arial,sans-serif" font-size="12" fill="#ED8B00" text-anchor="end">85%</text>
+  <rect x="460" y="110" width="280" height="6" rx="3" fill="#1a2744"/>
+  <rect x="460" y="110" width="238" height="6" rx="3" fill="#ED8B00"/>
+
+  <!-- PL/SQL -->
+  <circle cx="460" cy="134" r="4" fill="#F80000"/>
+  <text x="472" y="138" font-family="Arial,sans-serif" font-size="12" fill="#cccccc">Oracle PL/SQL</text>
+  <text x="740" y="138" font-family="Arial,sans-serif" font-size="12" fill="#F80000" text-anchor="end">10%</text>
+  <rect x="460" y="144" width="280" height="6" rx="3" fill="#1a2744"/>
+  <rect x="460" y="144" width="28" height="6" rx="3" fill="#F80000"/>
+
+  <!-- Python -->
+  <circle cx="460" cy="168" r="4" fill="#3776AB"/>
+  <text x="472" y="172" font-family="Arial,sans-serif" font-size="12" fill="#cccccc">Python</text>
+  <text x="740" y="172" font-family="Arial,sans-serif" font-size="12" fill="#3776AB" text-anchor="end">5%</text>
+  <rect x="460" y="178" width="280" height="6" rx="3" fill="#1a2744"/>
+  <rect x="460" y="178" width="14" height="6" rx="3" fill="#3776AB"/>
+</svg>
 
 </div>
 
