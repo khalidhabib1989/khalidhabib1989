@@ -11,7 +11,7 @@
   <polygon points="0,130 180,80 360,120 540,70 720,110 860,60 860,180 0,180" fill="#0a2347" opacity="0.5"/>
   <polygon points="0,150 200,110 400,145 600,100 800,135 860,115 860,180 0,180" fill="#081d38" opacity="0.4"/>
   <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib | </text>
-  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS |AI ML | </text>
+  <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS |AI/ML | </text>
   <text x="430" y="148" font-family="Arial,sans-serif" font-size="14" fill="#7EB3E8" text-anchor="middle">10+ Years  |  UBS Investment Bank  |  Amazon  |  TCS  |  Accenture</text>
 </svg>
 
@@ -21,6 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Habib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gotokhalidhabib/)
 [![Email](https://img.shields.io/badge/Email-khalidhabib1989@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhabib1989@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-khalidhabib1989-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidhabib1989)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-1565C0?style=for-the-badge)](https://www.google.com/maps/place/Mumbai)
 
 </div>
