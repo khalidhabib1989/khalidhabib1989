@@ -10,12 +10,12 @@
   <rect width="860" height="180" fill="url(#hg)" rx="10"/>
   <polygon points="0,130 180,80 360,120 540,70 720,110 860,60 860,180 0,180" fill="#0a2347" opacity="0.5"/>
   <polygon points="0,150 200,110 400,145 600,100 800,135 860,115 860,180 0,180" fill="#081d38" opacity="0.4"/>
-  <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib</text>
+  <text x="430" y="82" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">Khalid Habib | </text>
   <text x="430" y="118" font-family="Arial,sans-serif" font-size="17" fill="#B5D4F4" text-anchor="middle">Senior Java Engineer  |  Banking &amp; FinTech  |  AWS |AI ML | </text>
   <text x="430" y="148" font-family="Arial,sans-serif" font-size="14" fill="#7EB3E8" text-anchor="middle">10+ Years  |  UBS Investment Bank  |  Amazon  |  TCS  |  Accenture</text>
 </svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=700&lines=10%2B+Years+Java+Engineering+%F0%9F%9A%80;Built+Credit+Risk+Platforms+for+UBS+%F0%9F%8F%A6;Shipped+AI+Code+Generation+at+Amazon+%F0%9F%A4%96;Spring+Boot+3+%7C+Microservices+%7C+AWS+%7C+;4%C3%97+GURU+Award+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=700&lines=10%2B+Years+Java+Engineering+%F0%9F%9A%80;Built+Credit+Risk+Platforms+for+UBS+%F0%9F%8F%A6;Shipped+AI+Code+Generation+at+Amazon+%F0%9F%A4%96;Spring+Boot+3+%7C+Microservices+%7C+AWS+%7C Core Java+;4%C3%97+GURU+Award+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <br/>
 
