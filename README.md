@@ -113,7 +113,7 @@ public class KhalidHabib extends SeniorJavaEngineer {
 ### Domain Expertise
 ![Banking](https://img.shields.io/badge/Credit%20Risk-0D2B55?style=for-the-badge&logo=databricks&logoColor=white)
 ![FinTech](https://img.shields.io/badge/Capital%20Markets-1565C0?style=for-the-badge&logo=monero&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML%20Pipelines-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/Retail-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
